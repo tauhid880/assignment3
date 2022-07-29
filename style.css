@@ -1,11 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
 }
-/* .carousel-caption {
-  transform: translateY(-50%);
-  bottom: initial;
-  top: 50%;
-} */
 
 .carousel-img {
   filter: brightness(50%);
